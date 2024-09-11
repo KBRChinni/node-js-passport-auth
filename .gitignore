@@ -1,0 +1,8 @@
+# Ignore files to be pushed to remote repo
+/node_modules
+/dist
+
+*.history
+.vscode
+
+.env
